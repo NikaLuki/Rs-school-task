@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.js": "/Rs-school-task/static/js/main.52d69bff.chunk.js",
+    "main.js.map": "/Rs-school-task/static/js/main.52d69bff.chunk.js.map",
+    "runtime-main.js": "/Rs-school-task/static/js/runtime-main.05c58de5.js",
+    "runtime-main.js.map": "/Rs-school-task/static/js/runtime-main.05c58de5.js.map",
+    "static/css/2.babd2a16.chunk.css": "/Rs-school-task/static/css/2.babd2a16.chunk.css",
+    "static/js/2.43b35d1a.chunk.js": "/Rs-school-task/static/js/2.43b35d1a.chunk.js",
+    "static/js/2.43b35d1a.chunk.js.map": "/Rs-school-task/static/js/2.43b35d1a.chunk.js.map",
+    "index.html": "/Rs-school-task/index.html",
+    "static/css/2.babd2a16.chunk.css.map": "/Rs-school-task/static/css/2.babd2a16.chunk.css.map",
+    "static/js/2.43b35d1a.chunk.js.LICENSE.txt": "/Rs-school-task/static/js/2.43b35d1a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.05c58de5.js",
+    "static/css/2.babd2a16.chunk.css",
+    "static/js/2.43b35d1a.chunk.js",
+    "static/js/main.52d69bff.chunk.js"
+  ]
+}
